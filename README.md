@@ -1,5 +1,4 @@
 # Halcon Construction Material Distributor Web Application
---------------------------------------------------------
 
 ## Overview
 
